@@ -1,0 +1,14 @@
+D:\Laptrinh\C#\webAPI\followFolder\bin\Debug\followFolder.exe.config
+D:\Laptrinh\C#\webAPI\followFolder\bin\Debug\followFolder.exe
+D:\Laptrinh\C#\webAPI\followFolder\bin\Debug\followFolder.pdb
+D:\Laptrinh\C#\webAPI\followFolder\bin\Debug\MySql.Data.DLL
+D:\Laptrinh\C#\webAPI\followFolder\bin\Debug\Newtonsoft.Json.dll
+D:\Laptrinh\C#\webAPI\followFolder\bin\Debug\Google.Protobuf.dll
+D:\Laptrinh\C#\webAPI\followFolder\bin\Debug\Renci.SshNet.dll
+D:\Laptrinh\C#\webAPI\followFolder\bin\Debug\BouncyCastle.Crypto.dll
+D:\Laptrinh\C#\webAPI\followFolder\bin\Debug\Newtonsoft.Json.xml
+D:\Laptrinh\C#\webAPI\followFolder\obj\Debug\followFolder.csprojAssemblyReference.cache
+D:\Laptrinh\C#\webAPI\followFolder\obj\Debug\followFolder.csproj.CoreCompileInputs.cache
+D:\Laptrinh\C#\webAPI\followFolder\obj\Debug\followFolder.csproj.CopyComplete
+D:\Laptrinh\C#\webAPI\followFolder\obj\Debug\followFolder.exe
+D:\Laptrinh\C#\webAPI\followFolder\obj\Debug\followFolder.pdb
